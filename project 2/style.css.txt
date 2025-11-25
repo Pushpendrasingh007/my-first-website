@@ -1,0 +1,46 @@
+body {
+  font-family: Arial;
+  background: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background: #4CAF50;
+  color: white;
+  padding: 40px 0;
+  text-align: center;
+}
+
+.about, .skills, .projects, .contact {
+  background: white;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+h2 {
+  color: #333;
+}
+
+.skills ul li {
+  margin: 5px 0;
+}
+
+.contact input {
+  width: 90%;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid #555;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+  background: #4CAF50;
+  color: white;
+  font-size: 18px;
+}
