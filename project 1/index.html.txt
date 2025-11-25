@@ -1,0 +1,13 @@
+
+
+<link rel="stylesheet" href="style.css">
+<div class="container">
+  <div class="box">Box 1</div>
+  <div class="box">Box 2</div>
+  <div class="box">Box 3</div>
+</div>
+<div class="card">
+  <img src="https://picsum.photos/300" alt="">
+  <h2>My Card Title</h2>
+  <p>This is a simple description inside the card.</p>
+</div>
